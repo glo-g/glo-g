@@ -8,3 +8,11 @@
 </h1>
 
 ### Cloud Engineer and Systems Administrator passionate about building scalable, reliable, and secure infrastructure while exploring cloud technologies to optimize performance and efficiency.
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
