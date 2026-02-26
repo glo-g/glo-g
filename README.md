@@ -19,4 +19,4 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,linux,git,github,aws" />
 </p>
 
-<hr>
+
