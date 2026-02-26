@@ -1,46 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Visitor Counter</title>
-  <style>
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      background: #111;
-      color: white;
-      font-family: Arial, sans-serif;
-    }
 
-    .counter-container {
-      text-align: center;
-    }
-
-    .flip-counter {
-      display: flex;
-      gap: 8px;
-      margin-top: 20px;
-    }
-
-    .digit {
-      background: black;
-      color: #00ffcc;
-      font-size: 3rem;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 5px 0 #00aa88;
-      min-width: 50px;
-      text-align: center;
-      transition: transform 0.3s ease;
-    }
-
-    .digit.flip {
-      transform: rotateX(360deg);
-    }
-  </style>
-</head>
-<body>
 
 <div class="counter-container">
   <h2>Visitor Count</h2>
