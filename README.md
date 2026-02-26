@@ -1,3 +1,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=glo-g" />
-<img src="https://github.com/glo-g/glo-g/raw/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+
+<img src="https://raw.githubusercontent.com/glo-g/glo-g/main/images/software-developer.png" alt="Banner">
