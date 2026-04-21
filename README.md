@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,SQL,Superbase,Kali-Linux,Ubuntu,bash,linux,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,Kali-Linux,Ubuntu,bash,linux,git,github,aws" />
 </p>
 
 
