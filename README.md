@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,Ubuntu,Bash,linux,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,GNU Bash,linux,git,github,aws" />
 </p>
 
 
